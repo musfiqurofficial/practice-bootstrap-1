@@ -2,3 +2,55 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+h3{
+    font-weight: 600;
+    font-size: 36px;
+    margin-bottom: 1rem;
+}
+h5{
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+.con-size{
+    margin-top: 100px;
+}
+.card-dg{
+    border: 1px solid #e0e0e048;
+    border-radius: 30px;
+    background-color: #fff;
+    padding: 40px 20px;
+}
+.card-dg.unic{
+    border-radius: 30px;
+    background-color: #3F87F5;
+    padding: 40px 20px;
+    color: #fff;
+    box-shadow: 0px 20px 25px #8fbafc8f;
+    position: relative;
+    bottom: 40px;
+}
+.btnCard{
+    border-radius: 30px;
+    background-color: #f496d233;
+    padding: 10px 15px;
+    margin-top: 20px;
+    color: #3F87F5;
+    font-weight: 600;
+    border: none;
+}
+.unic .btnCard{
+    border-radius: 30px;
+    background-color: #ffffff;
+    padding: 10px 15px;
+    margin-top: 20px;
+    color: #3F87F5;
+    font-weight: 600;
+    border: none;
+}
+.card-mini{
+    border: none;
+    box-shadow: 0px 0px 15px #2727274b;
+    border-radius: 10px;
+    background-color: #fff;
+    padding: 15px;
+}
