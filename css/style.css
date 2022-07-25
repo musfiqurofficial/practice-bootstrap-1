@@ -11,8 +11,29 @@ h5{
     font-weight: 600;
     margin-bottom: 1rem;
 }
+li{
+    list-style: none;
+}
+i{
+    margin: 0 10px;
+}
 .con-size{
     margin-top: 100px;
+}
+.fa-solid{
+    color: #3F87F5;
+}
+.unic .fa-solid{
+    color: #ffffff;
+}
+.btn-dg{
+    background-color: #f5f5f5;
+    border: 1px solid #f5f5f5;
+    color: #3F87F5;
+    font-weight: 800;
+    padding: 10px 40px;
+    border-radius: 5px;
+    margin-top: 20px;
 }
 .card-dg{
     border: 1px solid #e0e0e048;
@@ -53,4 +74,8 @@ h5{
     border-radius: 10px;
     background-color: #fff;
     padding: 15px;
+}
+.bg-dark{
+    color: #fff;
+    background-color: #0B0D17!important;
 }
